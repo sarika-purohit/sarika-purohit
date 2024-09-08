@@ -3,22 +3,20 @@
   
    
    
-   
-### Jai Shree Krishna!
-                                                        Sarika Purohit ✨
-                                        Google DSC Lead | Open Source Enthusiast | Explorer 
+                                                                                 Sarika Purohit ✨
+                                        Google Developer Groups Indore Co-organiser | Google DSC Lead Alumni 2023 | Open Source Enthusiast | Explorer
 
 
-- 🔭 I’m currently working as Lead in **Google Developer Student Club IIST**
+- 🔭 I’m currently working as Lead in **Google Developer Groups Indore**
 
 <!--   <img align ="right" src="https://media.giphy.com/media/fTI9mBoWLef8k/giphy.gif" width="350"/> 
  -->
 
-- 🌱 I’m currently learning **Flutter Development** & **DSA**
+- 🌱 I’m currently making projects on **Flutter Development** & improvising my **DSA** skills
 
 - 👯 I’m looking to collaborate on **Some Cool Open source projects**
 
-- 💬 Ask me about **C, C++, Git, Github, JAVA**
+- 💬 Ask me about **C, C++, Dart, Flutter, Cloud, ML, Git, Github, JAVA, Python, Community, Fintech, Web3, Hackathons, Career**
 
 - 📫 How to reach me **linkedin: https://www.linkedin.com/in/sarika-purohit/**
 
@@ -37,8 +35,10 @@
 
 
 ### My experiences 💻
-- I'm GDSC IIST lead.
-- I'm GFG IIST Chapter Managing Director.
+- I'm a Flutter Developer
+- I'm a Google Developer Groups Indore Co-organiser
+- I'm GDSC IIST lead Alumni 2023.
+- I'm GFG IIST Chapter Managing Director Alumi.
 - I had served CodeChef IIST as a Event Manager.
 - I've servered as GDSC IIST Operation and Management Lead.
 
@@ -72,4 +72,4 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sarika-purohit&label=Profile%20views&color=orange&style=flat&label=PROFILE+VIEWS" alt="sarika-purohit" /> 
 </br>   Find the repos I'm proud of, below in my pinned repos. </br>Please provide support by giving star if you liked it.</br>
-🧡 Thank you for visiting my Github Profile 🧡
+💙 Thank you for visiting my Github Profile 💙
